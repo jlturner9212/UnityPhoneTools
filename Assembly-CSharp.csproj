@@ -51,6 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\UnityPhoneTools\Plugins\iOS\GalleryMediaLoad.cs" />
+     <Compile Include="Assets\UnityPhoneTools\Plugins\iOS\GalleryMediaSave.cs" />
+     <Compile Include="Assets\UnityPhoneTools\Scripts\AndroidShowToast.cs" />
      <Compile Include="Assets\UnityPhoneTools\Scripts\CameraBehaviours.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>/Users/jeffreyturner/Desktop/Unity3D/DEMO/PhoneTools/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
